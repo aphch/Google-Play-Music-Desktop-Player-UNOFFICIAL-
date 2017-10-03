@@ -27,6 +27,7 @@ class HotkeyInput extends Component {
       'increaseVolume',
       'decreaseVolume',
       'infoTrack',
+      'miniToggle',
     ]).isRequired,
     hotkeys: PropTypes.object.isRequired,
     setSetting: PropTypes.func.isRequired,

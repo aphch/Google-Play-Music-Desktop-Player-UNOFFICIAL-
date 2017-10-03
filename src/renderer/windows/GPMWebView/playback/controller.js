@@ -81,6 +81,10 @@ Emitter.on('playback:miniDisable', () => {
   window.GPM.mini.disable();
 });
 
+Emitter.on('playback:miniToggle', () => {
+  window.GPM.mini.toggle();
+});
+
 Emitter.on('playback:infoTrack', () => {
   const currentTrack = window.GPM.playback.getCurrentTrack();
 

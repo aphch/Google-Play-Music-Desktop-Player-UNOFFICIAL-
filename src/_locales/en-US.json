@@ -65,6 +65,7 @@
   "playback-label-volume-down": "Decrease Volume",
   "playback-label-volume-up": "Increase Volume",
   "playback-label-info-track": "Notify current track",
+  "playback-label-mini-toggle": "Toggle Mini Player",
   "playback-os-no-track-playing": "No Track Playing",
 
   "settings-requires-restart": "Requires restart",
